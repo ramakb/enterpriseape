@@ -19,6 +19,4 @@ class InvoiceSearch
     default
   end
 
-
 end
-  
