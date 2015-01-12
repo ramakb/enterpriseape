@@ -35,6 +35,8 @@ gem 'spring',        group: :development
 
 gem 'bootstrap-sass', '~>2.3.1.0'
 
+gem 'devise'
+gem 'quiet_assets'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
